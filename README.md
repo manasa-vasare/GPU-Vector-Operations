@@ -4,7 +4,9 @@
 The objective of this project is to implement and analyze vector operations (addition and multiplication) on the GPU using CUDA threads, and compare their performance with sequential execution on the CPU.
 
 ## Team Members
-- Manasa Vasare
+- Aditya R Gavimath (01FE24BCI120)
+- Manasa B Vasare (01FE24BCI113)
+- Renuka Kagadal (01FE24BCI119)
 
 ## How to Build and Run
 1. Navigate to the `src` directory.
